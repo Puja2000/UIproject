@@ -2,3 +2,4 @@ Hello World !!
 changes multiple file added to staging area .
 new change
 change for bug1
+change for bug2
