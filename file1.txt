@@ -9,7 +9,7 @@ change for WI4 by teammate
 Change for bug2
 change for WI5 by my team mate in rebase .
 
-change for CR1 rebase with conflict.
+Change for CR1 rebase with conflict on remote master updated for CR2.
 change WI6 for stash.
 change for WI7 in remote master by team to check the pull operation.
 
