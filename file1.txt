@@ -5,6 +5,11 @@ new change
 Change for bug1
 change for WI4 by teammate
 
+
 Change for bug2
 change for WI5 by my team mate in rebase .
+
+change for CR1 rebase with conflict.
+
+
 
