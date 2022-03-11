@@ -11,6 +11,7 @@ change for WI5 by my team mate in rebase .
 
 change for CR1 rebase with conflict.
 change WI6 for stash.
+change for WI7 in remote master by team to check the pull operation.
 
 
 
